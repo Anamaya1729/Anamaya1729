@@ -11,7 +11,7 @@
 <h3 align="left">Talking about Personal Stuffs:</h3>
 <ul>
 <li> 🛠 &nbsp; At the moment working with Search Methods for Problem Solving in Artificial Intelligence, Data Analysis, React, NodeJS, Firebase, Graphql, Javascript, MongoDB, etc.</li>
-<li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/VaibhavA17">Github</a>.</li>
+<li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/anamaya1729">Github</a>.</li>
 <li> 📫 &nbsp; You can reach me <a href="mailto:sharma.011999@gmail.com">here</a>.</li>
   <!-- <li> 📝 &nbsp; Checkout my <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li> -->
 <li> 🚀 &nbsp; I’m currently pursuing bachelors in Artificial Intelligence and Machine Learning and leaning web development and want to be full stack web developer.</li>
