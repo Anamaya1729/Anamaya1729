@@ -19,4 +19,16 @@
 
 #### Weekly Deployment
 <!--START_SECTION:waka-->
+**I Mostly Code in CSS** 
+
+```text
+CSS                      6 repos             █████████████░░░░░░░░░░░░   54.55% 
+JavaScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
