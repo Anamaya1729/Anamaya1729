@@ -22,13 +22,13 @@
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      7 repos             ██████████████░░░░░░░░░░░   58.33% 
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+CSS                      8 repos             ███████████████░░░░░░░░░░   61.54% 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
