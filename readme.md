@@ -22,15 +22,15 @@
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      7 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+CSS                      7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
 
 
- Last Updated on 08/06/2022 18:48:16 UTC
+ Last Updated on 09/06/2022 18:49:06 UTC
 <!--END_SECTION:waka-->
