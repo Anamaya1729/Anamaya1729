@@ -17,4 +17,4 @@
 <li> 🚀 &nbsp; I’m currently pursuing my bachelors in Artificial Intelligence and Machine Learning and want to be Data Scientist one day..</li>
 </ul>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anamaya1729^theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anamaya1729^theme=xcode)](https://github.com/Anamaya1729/github-readme-activity-graph)
