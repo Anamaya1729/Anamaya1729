@@ -16,3 +16,5 @@
   <!-- <li> 📝 &nbsp; Checkout my <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li> -->
 <li> 🚀 &nbsp; I’m currently pursuing my bachelors in Artificial Intelligence and Machine Learning and want to be Data Scientist one day..</li>
 </ul>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anamaya1729^theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
