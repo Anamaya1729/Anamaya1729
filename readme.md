@@ -105,6 +105,6 @@ Introduction to AI, and an Artificial Intelligence Certificate — IBM and Cours
 
 ---
 
-📫 **[Anamaya1729@gmail.com](mailto:Anamaya1729@gmail.com)** ·
+📫 **[hello@anamaya.fyi](mailto:hello@anamaya.fyi)** ·
 💼 **[LinkedIn](https://linkedin.com/in/Anamaya1729)** ·
 🌐 **[anamaya.fyi](https://anamaya.fyi)**
