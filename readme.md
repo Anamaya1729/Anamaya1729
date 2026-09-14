@@ -79,7 +79,9 @@ different answer key and retracts one of the paper's own conclusions.
 Code and data are public — Zenodo
 [10.5281/zenodo.22013094](https://doi.org/10.5281/zenodo.22013094),
 plus [senpaiscope-threshold-data](https://github.com/Anamaya1729/senpaiscope-threshold-data).
-Desk-rejected twice without review. Still the most careful thing I've built.
+Every table in it regenerates byte-identical from persisted JSON, so no number was
+typed by hand, and the Zenodo deposit was verified file-by-file against the stamped
+commit. It is the most careful thing I have built.
 
 ---
 
@@ -95,6 +97,11 @@ and moved NPS 5%.
 
 Copilot Champion 2026 · Anchors Award for Speed 2025 · FIDE ACM title (chess),
 and I'll take the game if you're offering.
+
+**Certified** — Python for Data Science, Databases & SQL for Data Science,
+Introduction to Data Engineering, Python Project for Data Engineering, Data Analysis
+Using PySpark, SQL for Data Science, Fundamentals of Visualization with Tableau,
+Introduction to AI, and an Artificial Intelligence Certificate — IBM and Coursera.
 
 ---
 
