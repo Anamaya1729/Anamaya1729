@@ -20,7 +20,8 @@ on top of it. Outside work I build small, complete things and put them online.
 | **[Foglight](https://foglight.anamaya.fyi)** | A reader for difficult classics — focus mode, plain-English rewrites, spoiler-safe character tracking, tap-to-look-up for any word or phrase. |
 | **[NPA Explorer](https://npa.anamaya.fyi)** | Twenty years of non-performing assets across 115 Indian banks, from RBI DBIE. Heatmap, drill-down, advances-weighted group averages matching RBI Financial Stability Report methodology. |
 | **[Scorecard Playground](https://scorecard.anamaya.fyi)** | Move the inputs of a credit scorecard and watch the score and the cutoff decision move with them. Built to make "why was I declined" a question with a visible answer. |
-| **[Tumour Segmentation](https://tumor.anamaya.fyi)** | A U-Net segmenting low-grade gliomas in brain MRI, running client-side in ONNX. Split by patient rather than by slice, because adjacent slices of one brain are near-duplicates and splitting by slice buys you Dice that isn't there. |
+| **[Emotion Recognition](https://emotion.anamaya.fyi)** | A facial-expression CNN trained on FER-2013, exported to ONNX and run in your browser — no image leaves the page. 69.2% on held-out faces, against ~65% human agreement and ~73% published state of the art. The demo ships faces it gets **wrong**, on purpose. |
+| **[Tumour Segmentation](https://tumor.anamaya.fyi)** | A U-Net segmenting low-grade gliomas in brain MRI, running client-side in ONNX. 0.76 Dice on tumour-bearing slices, split by patient rather than by slice — adjacent slices of one brain are near-duplicates, and splitting by slice buys you Dice that isn't there. |
 | **[AI Text Checker](https://aitext.anamaya.fyi)** | Detects machine-written prose and shows the per-word arithmetic behind every verdict. Scores 99.9% on its own test split, then calls *Pride and Prejudice* machine-written — which is the more useful half of the demo. |
 
 ### Back from college
